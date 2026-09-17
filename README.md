@@ -3,8 +3,8 @@
 Selected writing samples demonstrating research, analysis, and communication across public health, policy, and behavioral science.
 
 ## Policy Briefs
-- [Intimate Partner Violence Prevention](policy-briefs/intimate-partner-violence-prevention.docx)
-- [Community Violence Prevention](policy-briefs/community-violence-prevention.docx)
+- [Intimate Partner Violence Prevention](policy-briefs/intimate-partner-violence-prevention.pdf)
+- [Community Violence Prevention](policy-briefs/community-violence-prevention.pdf)
 - [Economic Coercion as a Form of IPV](policy-briefs/economic-coercion-colombia.pdf)
 - [Increasing Uptake of LARC in Rwanda](policy-briefs/larc-rwanda.pdf)
 
