@@ -12,8 +12,7 @@ Selected writing samples demonstrating research, analysis, and communication acr
 - [Stigma and Social Isolation Among Older Adults with HIV](research-proposals/hiv-stigma-rural-older-adults.pdf)
 
 ## Publications
-- [regional-cultures-coping.pdf）
-- Gong, Y. (2023). How Different Regional Cultures (and Immigration) Affect People's Perception and Coping with Adversity. *ICGPSH 2023*.
+- [How Different Regional Cultures (and Immigration) Affect People's Perception and Coping with Adversity](publications/regional-cultures-coping.pdf) — *ICGPSH 2023*
 
 ## Manuscripts in Preparation
 - Revolutionizing Human Connection (Forthcoming 2026)
